@@ -1,0 +1,397 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "automated Bots"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "flathunter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-04-19T10:54:34Z",
+            "owner": "flathunters",
+            "repo": "flathunter",
+            "stars": 1055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "berlin-apartments-lambda-public",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-01T07:00:07Z",
+            "owner": "AvraamMavridis",
+            "repo": "berlin-apartments-lambda-public",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "flatcrawler",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-11T22:28:56Z",
+            "owner": "grandchild",
+            "repo": "flatcrawler",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gis-berlin-rents",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-07T23:59:10Z",
+            "owner": "pawod",
+            "repo": "gis-berlin-rents",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlatBot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-25T07:51:03Z",
+            "owner": "kine90",
+            "repo": "FlatBot",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Flats"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "berlin-startup-jobs-analyzer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-24T04:58:13Z",
+            "owner": "dstoianov",
+            "repo": "berlin-startup-jobs-analyzer",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DRS bot",
+          "description": "courses available on Dahlem Research School",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T09:53:41Z",
+            "owner": "anapaulagomes",
+            "repo": "drs_bot",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Jobs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Anmeldung appointment finder",
+          "description": "and source code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-29T11:25:29Z",
+            "owner": "All-About-Berlin",
+            "repo": "burgeramt-appointments",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bürgeramt Appointment Finder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-29T11:25:29Z",
+            "owner": "All-About-Berlin",
+            "repo": "burgeramt-appointments",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Berlin Ausländerbehörde Termin Bot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-01-09T21:25:00Z",
+            "owner": "yilmaznaslan",
+            "repo": "berlin-auslaenderbehorde-termin-bot",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Berlin Service Termin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-05T01:16:02Z",
+            "owner": "inverse",
+            "repo": "termin",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vbb-telegram",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-01-27T12:11:15Z",
+            "owner": "derhuerst",
+            "repo": "vbb-telegram",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "berlin anmeldung scrapper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-05-17T12:17:00Z",
+            "owner": "dgmora",
+            "repo": "berlin_anmeldung_scrapper",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sbahn-berlin-tweets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-29T19:27:49Z",
+            "owner": "derhuerst",
+            "repo": "sbahn-berlin-tweets",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Better Berlin Ausländerbehörde Termin Bot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-26T08:07:36Z",
+            "owner": "ccomkhj",
+            "repo": "berlin-visa-termin-macro",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Berlin registered protests",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T11:48:30Z",
+            "owner": "Mamdasn",
+            "repo": "telegram-bot-protests-in-berlin",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vbb-disruptions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-10-13T17:38:35Z",
+            "owner": "derhuerst",
+            "repo": "vbb-disruptions",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vbb-parse-ticket",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-05-03T15:53:48Z",
+            "owner": "derhuerst",
+            "repo": "vbb-parse-ticket",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "public-amenities-berlin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-28T17:28:15Z",
+            "owner": "030jmk",
+            "repo": "publicAmenitiesBerlin",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Public Services"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "berghain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "R",
+            "last_commit": "2026-08-01T12:27:53Z",
+            "owner": "ewenme",
+            "repo": "berghain",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "menstruation-telegram",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-13T20:23:55Z",
+            "owner": "kmein",
+            "repo": "menstruation-telegram",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eschen-bot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-08T17:08:00Z",
+            "owner": "derhuerst",
+            "repo": "eschen-bot",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ourkino",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-29T11:03:23Z",
+            "owner": "diurnalist",
+            "repo": "ourkino",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "queue-spy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-01T00:03:34Z",
+            "owner": "rafaelfcsouza",
+            "repo": "queue-spy",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "isberlinhappy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2016-08-22T18:13:09Z",
+            "owner": "jdennes",
+            "repo": "isberlinhappy",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Human Bots (Collaborative)"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T03:58:47.529Z",
+    "original_repository": "conradkirschner/awesome-bots-berlin",
+    "original_repository_sha": "84b035e87a4c37cad12a140a079c5ca8d1a2a122",
+    "enhanced_repository": "enhansome/enhansome-bots-berlin",
+    "enhanced_repository_description": null,
+    "title": "Awesome Berlin Bots with stars"
+  }
+}
