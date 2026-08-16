@@ -168,7 +168,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-05T01:16:02Z",
+            "last_commit": "2026-08-16T00:08:13Z",
             "owner": "inverse",
             "repo": "termin",
             "stars": 59
@@ -387,7 +387,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:10:03.414Z",
+    "last_updated": "2026-08-16T19:09:59.780Z",
     "original_repository": "conradkirschner/awesome-bots-berlin",
     "original_repository_sha": "84b035e87a4c37cad12a140a079c5ca8d1a2a122",
     "enhanced_repository": "enhansome/enhansome-bots-berlin",
