@@ -89,6 +89,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "berlinglish",
+              "description": "news from Berlin.de to Twitter",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 248055344,
+                "language": "TypeScript",
+                "last_commit": "2023-03-01T19:16:46Z",
+                "owner": "viniciuskneves",
+                "repo": "berlinglish",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "News"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "berlin-startup-jobs-analyzer",
               "description": null,
               "children": [],
@@ -133,10 +155,10 @@
                 "archived": false,
                 "id": 451959903,
                 "language": "Python",
-                "last_commit": "2025-09-29T11:25:29Z",
+                "last_commit": "2026-08-24T13:53:56Z",
                 "owner": "All-About-Berlin",
                 "repo": "burgeramt-appointments",
-                "stars": 293
+                "stars": 294
               }
             },
             {
@@ -148,10 +170,10 @@
                 "archived": false,
                 "id": 451959903,
                 "language": "Python",
-                "last_commit": "2025-09-29T11:25:29Z",
+                "last_commit": "2026-08-24T13:53:56Z",
                 "owner": "All-About-Berlin",
                 "repo": "burgeramt-appointments",
-                "stars": 293
+                "stars": 294
               }
             },
             {
@@ -313,6 +335,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "berlin-bot for Reddit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167695507,
+                "language": "Python",
+                "last_commit": "2024-02-26T05:14:43Z",
+                "owner": "All-About-Berlin",
+                "repo": "reddit-bot",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Question and Answers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "berghain",
               "description": null,
               "children": [],
@@ -417,7 +461,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:10:32.307Z",
+    "last_updated": "2026-08-24T14:48:03.871Z",
     "original_repository": "conradkirschner/awesome-bots-berlin",
     "original_repository_id": 375696921,
     "original_repository_sha": "84b035e87a4c37cad12a140a079c5ca8d1a2a122",
