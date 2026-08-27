@@ -461,9 +461,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T21:17:26.973Z",
-    "original_repository": "conradkirschner/awesome-bots-berlin",
-    "original_repository_id": 375696921,
+    "last_updated": "2026-08-27T11:28:02.900Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 375696921,
+      "language": null,
+      "last_commit": "2025-02-25T15:34:40Z",
+      "owner": "conradkirschner",
+      "repo": "awesome-bots-berlin",
+      "stars": 58
+    },
     "original_repository_sha": "84b035e87a4c37cad12a140a079c5ca8d1a2a122",
     "enhanced_repository": "enhansome/enhansome-bots-berlin",
     "enhanced_repository_description": null,
