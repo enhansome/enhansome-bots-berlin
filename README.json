@@ -12,12 +12,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bot to help people with their rental real-estate search. 🏠🤖",
+                "homepage": null,
                 "id": 264873293,
                 "language": "HTML",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-19T10:54:34Z",
+                "open_issues": 47,
                 "owner": "flathunters",
                 "repo": "flathunter",
-                "stars": 1058
+                "stars": 1059,
+                "topics": [
+                  "2captcha",
+                  "chromedriver",
+                  "crawlers",
+                  "idealista",
+                  "imagetyperz",
+                  "immobiliare",
+                  "immobilienscout24",
+                  "immowelt",
+                  "kleinanzeigen",
+                  "mattermost-bot",
+                  "python",
+                  "real-estate",
+                  "realestate",
+                  "rental",
+                  "selenium",
+                  "subito",
+                  "telegram-bot",
+                  "vrmimmo",
+                  "wg-gesucht"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -28,12 +53,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Send application forms to Landlords every time a new apartment is listed on Immobilien Scout",
+                "homepage": null,
                 "id": 133946353,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2018-10-01T07:00:07Z",
+                "open_issues": 2,
                 "owner": "AvraamMavridis",
                 "repo": "berlin-apartments-lambda-public",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "apartments-for-rent",
+                  "aws",
+                  "berlin",
+                  "bot",
+                  "cloudwatch",
+                  "lambda",
+                  "rent",
+                  "wohnung"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -44,12 +83,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Get notified via email when certain housing association websites post new flat offers.",
+                "homepage": null,
                 "id": 169735188,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2021-02-11T22:28:56Z",
+                "open_issues": 1,
                 "owner": "grandchild",
                 "repo": "flatcrawler",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "berlin",
+                  "gentrification",
+                  "part-of-it"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -60,12 +108,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A web crawler for ImmobilienScout24.de, that has been implemented for a small project at the institue of geographic sciences of the Free University of Berlin.",
+                "homepage": null,
                 "id": 95105579,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-07T23:59:10Z",
+                "open_issues": 6,
                 "owner": "pawod",
                 "repo": "gis-berlin-rents",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "apartment-rents",
+                  "berlin",
+                  "crawler",
+                  "gis",
+                  "immobilienscout24"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -76,12 +135,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FlatBot automates the tedious process of apartment applications on ImmoScout24.",
+                "homepage": null,
                 "id": 881988040,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-01-25T07:51:03Z",
+                "open_issues": 1,
                 "owner": "kine90",
                 "repo": "FlatBot",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "application",
+                  "berlin",
+                  "bewerben",
+                  "flat",
+                  "immobilienscout",
+                  "suche",
+                  "whonung"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             }
@@ -99,12 +171,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Berlin in English Twitter BOT",
+                "homepage": "https://twitter.com/berlinglish",
                 "id": 248055344,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-03-01T19:16:46Z",
+                "open_issues": 14,
                 "owner": "viniciuskneves",
                 "repo": "berlinglish",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "berlin",
+                  "english-twitter-bot",
+                  "hacktoberfest",
+                  "news",
+                  "nodejs",
+                  "twitter",
+                  "twitter-bot"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             }
@@ -122,12 +207,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "frequency word analyzer based on a job title",
+                "homepage": null,
                 "id": 229580221,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-04-24T04:58:13Z",
+                "open_issues": 4,
                 "owner": "dstoianov",
                 "repo": "berlin-startup-jobs-analyzer",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "analyzer",
+                  "berlin",
+                  "berlin-startup-jobs",
+                  "jobs",
+                  "python",
+                  "stackoverflow"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -138,12 +235,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "How did you know about this course? Well, a little bot told me... 🤖",
+                "homepage": "https://t.me/drs_courses",
                 "id": 750537035,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-15T09:53:41Z",
+                "open_issues": 6,
                 "owner": "anapaulagomes",
                 "repo": "drs_bot",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "berlin",
+                  "dahlem-research-school"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             }
@@ -161,12 +266,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fetch Bürgeramt appointments and broadcast them via websockets",
+                "homepage": null,
                 "id": 451959903,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T13:53:56Z",
+                "open_issues": 3,
                 "owner": "All-About-Berlin",
                 "repo": "burgeramt-appointments",
-                "stars": 294
+                "stars": 294,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -177,12 +287,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fetch Bürgeramt appointments and broadcast them via websockets",
+                "homepage": null,
                 "id": 451959903,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-24T13:53:56Z",
+                "open_issues": 3,
                 "owner": "All-About-Berlin",
                 "repo": "burgeramt-appointments",
-                "stars": 294
+                "stars": 294,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -193,12 +308,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple way to automate booking an appointment at Berlin Ausländerbehörde using java and selenium framework",
+                "homepage": "https://yilmaznaslan.github.io/berlin-auslaenderbehorde-termin-bot/",
                 "id": 560842582,
                 "language": "Java",
+                "license": "AGPL-3.0",
                 "last_commit": "2024-01-09T21:25:00Z",
+                "open_issues": 14,
                 "owner": "yilmaznaslan",
                 "repo": "berlin-auslaenderbehorde-termin-bot",
-                "stars": 158
+                "stars": 158,
+                "topics": [
+                  "automated-appointment-search",
+                  "docker",
+                  "java",
+                  "selenium"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -209,12 +334,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple PHP script for notifying for a free appointments on the Berlin services website.",
+                "homepage": null,
                 "id": 150996986,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-08-21T23:41:18Z",
+                "open_issues": 18,
                 "owner": "inverse",
                 "repo": "termin",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "abmeldung",
+                  "berlin",
+                  "php",
+                  "scraper",
+                  "telegram"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -225,12 +361,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Telegram bot for Berlin & Brandenburg public transport.",
+                "homepage": "https://telegram.me/public_transport_bot",
                 "id": 57001894,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2022-01-27T12:11:15Z",
+                "open_issues": 6,
                 "owner": "derhuerst",
                 "repo": "vbb-telegram",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "berlin",
+                  "bvg",
+                  "telegram",
+                  "transit",
+                  "transport",
+                  "vbb"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -241,12 +389,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily find appointments for the Berlin Burgeramt",
+                "homepage": null,
                 "id": 90824933,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2017-05-17T12:17:00Z",
+                "open_issues": 0,
                 "owner": "dgmora",
                 "repo": "berlin_anmeldung_scrapper",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "berlin",
+                  "cli",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -257,12 +414,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fetch & parse @SBahnBerlin tweets on the operating status of S-Bahn Berlin.",
+                "homepage": "https://github.com/derhuerst/parse-sbahn-berlin-tweets#parse-sbahn-berlin-tweets",
                 "id": 206432642,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2019-10-29T19:27:49Z",
+                "open_issues": 3,
                 "owner": "derhuerst",
                 "repo": "sbahn-berlin-tweets",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "berlin",
+                  "public-transport",
+                  "sbahn",
+                  "transit"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -273,12 +440,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automated Berlin Ausländerbehörde appointment bot using Selenium, notifying users via Slack and audible alerts upon availability, leveling the playing field for appointment booking.",
+                "homepage": null,
                 "id": 769852382,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-03-26T08:07:36Z",
+                "open_issues": 0,
                 "owner": "ccomkhj",
                 "repo": "berlin-visa-termin-macro",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -289,12 +461,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The purpose of this code base is to facilitate access to the protests registered in Berlin on berlin.de. Users can access protests based on their distinguishing features, such as location, date, theme, and route.",
+                "homepage": null,
                 "id": 621777285,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-10T11:48:30Z",
+                "open_issues": 2,
                 "owner": "Mamdasn",
                 "repo": "telegram-bot-protests-in-berlin",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "api",
+                  "bot",
+                  "docker-compose",
+                  "open-source",
+                  "protest-events",
+                  "telegram-api",
+                  "telegram-bot"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -305,12 +490,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scrapes disruptions from the S-Bahn Berlin website and the BVG website.",
+                "homepage": "https://github.com/derhuerst/vbb-disruptions",
                 "id": 55022356,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2019-10-13T17:38:35Z",
+                "open_issues": 1,
                 "owner": "derhuerst",
                 "repo": "vbb-disruptions",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "berlin",
+                  "bvg",
+                  "transit",
+                  "transport",
+                  "vbb"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -321,12 +517,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parse ticket information from the VBB HAFAS API.",
+                "homepage": "https://github.com/derhuerst/vbb-parse-ticket",
                 "id": 59602207,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2020-05-03T15:53:48Z",
+                "open_issues": 1,
                 "owner": "derhuerst",
                 "repo": "vbb-parse-ticket",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "berlin",
+                  "bvg",
+                  "transit",
+                  "transport",
+                  "vbb"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -337,12 +544,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Telegram Bot to find the closest public amenity for urgent needs",
+                "homepage": null,
                 "id": 420233451,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-08-28T17:28:15Z",
+                "open_issues": 1,
                 "owner": "030jmk",
                 "repo": "publicAmenitiesBerlin",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             }
@@ -360,12 +572,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A small bot for /r/berlin - links to relevant guides including those on https://allaboutberlin.com",
+                "homepage": "https://reddit.com/r/berlin",
                 "id": 167695507,
                 "language": "Python",
+                "license": "WTFPL",
                 "last_commit": "2024-02-26T05:14:43Z",
+                "open_issues": 0,
                 "owner": "All-About-Berlin",
                 "repo": "reddit-bot",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             }
@@ -383,12 +600,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Berghain event listings since 2010",
+                "homepage": null,
                 "id": 199523005,
                 "language": "R",
+                "license": "MIT",
                 "last_commit": "2026-08-01T12:27:53Z",
+                "open_issues": 0,
                 "owner": "ewenme",
                 "repo": "berghain",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "berghain",
+                  "open-data",
+                  "r"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -399,12 +625,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Berlin Uni-Mensa Telegram Bot",
+                "homepage": null,
                 "id": 151548905,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2025-12-13T20:23:55Z",
+                "open_issues": 1,
                 "owner": "kmein",
                 "repo": "menstruation-telegram",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "berlin",
+                  "mensa",
+                  "menstruation",
+                  "studentenwerk",
+                  "telegram-bot"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -415,12 +652,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Telegram bot for the Eschenbräu beer garden.",
+                "homepage": "https://github.com/derhuerst/eschen-bot",
                 "id": 105835431,
                 "language": "JavaScript",
+                "license": "ISC",
                 "last_commit": "2019-11-08T17:08:00Z",
+                "open_issues": 1,
                 "owner": "derhuerst",
                 "repo": "eschen-bot",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "beer-garden",
+                  "berlin",
+                  "bot",
+                  "telegram"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             },
@@ -431,12 +678,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple movie showtime listing for a highly curated list of locations.",
+                "homepage": "https://ourkino.com",
                 "id": 76794142,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-12-29T11:03:23Z",
+                "open_issues": 4,
                 "owner": "diurnalist",
                 "repo": "ourkino",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "berlin",
+                  "chicago",
+                  "cinema",
+                  "film-list",
+                  "showtimes"
+                ]
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
             }
@@ -458,12 +716,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collaborative tool for checking Club Queues",
+            "homepage": null,
             "id": 183699625,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-05-01T00:03:34Z",
+            "open_issues": 7,
             "owner": "rafaelfcsouza",
             "repo": "queue-spy",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "berlin",
+              "clubs",
+              "collaborative",
+              "firebase",
+              "javascript",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-29T01:55:38.715Z"
         },
@@ -474,12 +744,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Is Berlin happy?",
+            "homepage": "http://isberlinhappy.jdenn.es/",
             "id": 9530458,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2016-08-22T18:13:09Z",
+            "open_issues": 0,
             "owner": "jdennes",
             "repo": "isberlinhappy",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "berlin",
+              "ruby",
+              "weather"
+            ]
           },
           "first_seen": "2026-08-29T01:55:38.715Z"
         }
@@ -488,15 +767,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:55:38.715Z",
+    "last_updated": "2026-08-29T05:06:13.618Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome bots for Berlin",
+      "homepage": null,
       "id": 375696921,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2025-02-25T15:34:40Z",
+      "open_issues": 0,
       "owner": "conradkirschner",
       "repo": "awesome-bots-berlin",
-      "stars": 58
+      "stars": 58,
+      "topics": [
+        "awesome-list",
+        "berlin"
+      ]
     },
     "original_repository_sha": "84b035e87a4c37cad12a140a079c5ca8d1a2a122",
     "enhanced_repository": "enhansome/enhansome-bots-berlin",
