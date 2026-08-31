@@ -21,7 +21,7 @@
                 "open_issues": 47,
                 "owner": "flathunters",
                 "repo": "flathunter",
-                "stars": 1060,
+                "stars": 1061,
                 "topics": [
                   "2captcha",
                   "chromedriver",
@@ -240,7 +240,7 @@
                 "id": 750537035,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-07-15T09:53:41Z",
+                "last_commit": "2026-08-31T18:29:14Z",
                 "open_issues": 6,
                 "owner": "anapaulagomes",
                 "repo": "drs_bot",
@@ -317,7 +317,7 @@
                 "open_issues": 14,
                 "owner": "yilmaznaslan",
                 "repo": "berlin-auslaenderbehorde-termin-bot",
-                "stars": 158,
+                "stars": 157,
                 "topics": [
                   "automated-appointment-search",
                   "docker",
@@ -339,7 +339,7 @@
                 "id": 150996986,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-08-30T14:55:26Z",
+                "last_commit": "2026-08-31T22:52:06Z",
                 "open_issues": 18,
                 "owner": "inverse",
                 "repo": "termin",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:38:44.579Z",
+    "last_updated": "2026-08-31T23:02:50.530Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome bots for Berlin",
