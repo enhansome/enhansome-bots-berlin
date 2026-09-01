@@ -271,7 +271,7 @@
                 "id": 451959903,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-24T13:53:56Z",
+                "last_commit": "2026-09-01T08:58:59Z",
                 "open_issues": 3,
                 "owner": "All-About-Berlin",
                 "repo": "burgeramt-appointments",
@@ -292,7 +292,7 @@
                 "id": 451959903,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-24T13:53:56Z",
+                "last_commit": "2026-09-01T08:58:59Z",
                 "open_issues": 3,
                 "owner": "All-About-Berlin",
                 "repo": "burgeramt-appointments",
@@ -605,7 +605,7 @@
                 "id": 199523005,
                 "language": "R",
                 "license": "MIT",
-                "last_commit": "2026-08-01T12:27:53Z",
+                "last_commit": "2026-09-01T16:20:22Z",
                 "open_issues": 0,
                 "owner": "ewenme",
                 "repo": "berghain",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:02:50.530Z",
+    "last_updated": "2026-09-01T21:26:06.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome bots for Berlin",

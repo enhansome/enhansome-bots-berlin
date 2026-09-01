@@ -23,8 +23,8 @@ A curated list of awesome Bots that help People in Berlin
 
 ### Public Services
 
-* [Anmeldung appointment finder](https://allaboutberlin.com/tools/appointment-finder) and [source code](https://github.com/nicbou/burgeramt-appointments-websockets) ⭐ 294 | 🐛 3 | 🌐 Python | 📅 2026-08-24
-* [Bürgeramt Appointment Finder](https://github.com/All-About-Berlin/burgeramt-appointments) ⭐ 294 | 🐛 3 | 🌐 Python | 📅 2026-08-24
+* [Anmeldung appointment finder](https://allaboutberlin.com/tools/appointment-finder) and [source code](https://github.com/nicbou/burgeramt-appointments-websockets) ⭐ 294 | 🐛 3 | 🌐 Python | 📅 2026-09-01
+* [Bürgeramt Appointment Finder](https://github.com/All-About-Berlin/burgeramt-appointments) ⭐ 294 | 🐛 3 | 🌐 Python | 📅 2026-09-01
 * [Berlin Ausländerbehörde Termin Bot](https://github.com/yilmaznaslan/berlin-auslaenderbehorde-termin-bot) ⭐ 157 | 🐛 14 | 🌐 Java | 📅 2024-01-09
 * [Berlin Service Termin](https://github.com/inverse/termin) ⭐ 59 | 🐛 18 | 🌐 HTML | 📅 2026-08-31
 * [vbb-telegram](https://github.com/derhuerst/vbb-telegram) ⭐ 18 | 🐛 6 | 🌐 JavaScript | 📅 2022-01-27
@@ -42,7 +42,7 @@ A curated list of awesome Bots that help People in Berlin
 
 ### Others
 
-* [berghain](https://github.com/ewenme/berghain) ⭐ 8 | 🐛 0 | 🌐 R | 📅 2026-08-01
+* [berghain](https://github.com/ewenme/berghain) ⭐ 8 | 🐛 0 | 🌐 R | 📅 2026-09-01
 * [menstruation-telegram](https://github.com/kmein/menstruation-telegram) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2025-12-13
 * [eschen-bot](https://github.com/derhuerst/eschen-bot) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2019-11-08
 * [ourkino](https://github.com/diurnalist/ourkino) ⭐ 1 | 🐛 4 | 🌐 Go | 📅 2025-12-29
@@ -68,4 +68,4 @@ In anycase of Contact just create a Issue, I will try to respond soon!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
