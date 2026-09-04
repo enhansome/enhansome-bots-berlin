@@ -19,14 +19,14 @@ A curated list of awesome Bots that help People in Berlin
 ### Jobs
 
 * [berlin-startup-jobs-analyzer](https://github.com/dstoianov/berlin-startup-jobs-analyzer) ⭐ 1 | 🐛 4 | 🌐 Python | 📅 2023-04-24
-* [DRS bot](https://github.com/anapaulagomes/drs_bot) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-08-31 - courses available on Dahlem Research School
+* [DRS bot](https://github.com/anapaulagomes/drs_bot) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-09-04 - courses available on Dahlem Research School
 
 ### Public Services
 
 * [Anmeldung appointment finder](https://allaboutberlin.com/tools/appointment-finder) and [source code](https://github.com/nicbou/burgeramt-appointments-websockets) ⭐ 294 | 🐛 3 | 🌐 Python | 📅 2026-09-01
 * [Bürgeramt Appointment Finder](https://github.com/All-About-Berlin/burgeramt-appointments) ⭐ 294 | 🐛 3 | 🌐 Python | 📅 2026-09-01
 * [Berlin Ausländerbehörde Termin Bot](https://github.com/yilmaznaslan/berlin-auslaenderbehorde-termin-bot) ⭐ 157 | 🐛 14 | 🌐 Java | 📅 2024-01-09
-* [Berlin Service Termin](https://github.com/inverse/termin) ⭐ 59 | 🐛 18 | 🌐 HTML | 📅 2026-08-31
+* [Berlin Service Termin](https://github.com/inverse/termin) ⭐ 59 | 🐛 17 | 🌐 HTML | 📅 2026-09-04
 * [vbb-telegram](https://github.com/derhuerst/vbb-telegram) ⭐ 18 | 🐛 6 | 🌐 JavaScript | 📅 2022-01-27
 * [berlin anmeldung scrapper](https://github.com/dgmora/berlin_anmeldung_scrapper) ⭐ 14 | 🐛 0 | 🌐 Ruby | 📅 2017-05-17
 * [sbahn-berlin-tweets](https://github.com/derhuerst/sbahn-berlin-tweets) ⭐ 9 | 🐛 3 | 🌐 JavaScript | 📅 2019-10-29
@@ -68,4 +68,4 @@ In anycase of Contact just create a Issue, I will try to respond soon!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
