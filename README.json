@@ -339,7 +339,7 @@
                 "id": 150996986,
                 "language": "HTML",
                 "license": "MIT",
-                "last_commit": "2026-09-06T18:14:34Z",
+                "last_commit": "2026-09-07T17:47:30Z",
                 "open_issues": 17,
                 "owner": "inverse",
                 "repo": "termin",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T20:52:15.655Z",
+    "last_updated": "2026-09-07T21:48:34.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome bots for Berlin",
