@@ -240,7 +240,7 @@
                 "id": 750537035,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-09T09:19:21Z",
+                "last_commit": "2026-09-10T13:58:41Z",
                 "open_issues": 6,
                 "owner": "anapaulagomes",
                 "repo": "drs_bot",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:16:17.167Z",
+    "last_updated": "2026-09-10T21:14:06.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome bots for Berlin",
