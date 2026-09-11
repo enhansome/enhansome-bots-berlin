@@ -19,7 +19,7 @@ A curated list of awesome Bots that help People in Berlin
 ### Jobs
 
 * [berlin-startup-jobs-analyzer](https://github.com/dstoianov/berlin-startup-jobs-analyzer) ⭐ 1 | 🐛 4 | 🌐 Python | 📅 2023-04-24
-* [DRS bot](https://github.com/anapaulagomes/drs_bot) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-09-10 - courses available on Dahlem Research School
+* [DRS bot](https://github.com/anapaulagomes/drs_bot) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-09-11 - courses available on Dahlem Research School
 
 ### Public Services
 
@@ -68,4 +68,4 @@ In anycase of Contact just create a Issue, I will try to respond soon!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
