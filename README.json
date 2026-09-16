@@ -62,7 +62,7 @@
                 "open_issues": 2,
                 "owner": "AvraamMavridis",
                 "repo": "berlin-apartments-lambda-public",
-                "stars": 78,
+                "stars": 77,
                 "topics": [
                   "apartments-for-rent",
                   "aws",
@@ -240,7 +240,7 @@
                 "id": 750537035,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T13:57:42Z",
+                "last_commit": "2026-09-16T14:29:06Z",
                 "open_issues": 6,
                 "owner": "anapaulagomes",
                 "repo": "drs_bot",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T21:47:43.685Z",
+    "last_updated": "2026-09-16T21:45:38.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome bots for Berlin",

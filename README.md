@@ -7,7 +7,7 @@ A curated list of awesome Bots that help People in Berlin
 ### Flats
 
 * [flathunter](https://github.com/flathunters/flathunter) ⭐ 1,061 | 🐛 47 | 🌐 HTML | 📅 2026-04-19
-* [berlin-apartments-lambda-public](https://github.com/AvraamMavridis/berlin-apartments-lambda-public) ⭐ 78 | 🐛 2 | 🌐 JavaScript | 📅 2018-10-01
+* [berlin-apartments-lambda-public](https://github.com/AvraamMavridis/berlin-apartments-lambda-public) ⭐ 77 | 🐛 2 | 🌐 JavaScript | 📅 2018-10-01
 * [flatcrawler](https://github.com/grandchild/flatcrawler) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2021-02-11
 * [gis-berlin-rents](https://github.com/pawod/gis-berlin-rents) ⭐ 8 | 🐛 6 | 🌐 Python | 📅 2022-12-07
 * [FlatBot](https://github.com/kine90/FlatBot) ⭐ 5 | 🐛 1 | 🌐 Python | 📅 2025-01-25
@@ -19,7 +19,7 @@ A curated list of awesome Bots that help People in Berlin
 ### Jobs
 
 * [berlin-startup-jobs-analyzer](https://github.com/dstoianov/berlin-startup-jobs-analyzer) ⭐ 1 | 🐛 4 | 🌐 Python | 📅 2023-04-24
-* [DRS bot](https://github.com/anapaulagomes/drs_bot) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-09-11 - courses available on Dahlem Research School
+* [DRS bot](https://github.com/anapaulagomes/drs_bot) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-09-16 - courses available on Dahlem Research School
 
 ### Public Services
 
@@ -68,4 +68,4 @@ In anycase of Contact just create a Issue, I will try to respond soon!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
