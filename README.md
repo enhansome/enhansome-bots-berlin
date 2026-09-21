@@ -60,7 +60,7 @@ A curated list of awesome Bots that help People in Berlin
 
 Your contributions are always welcome! Please create a Pull Request :) *Awesome*
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/conradkirschner/awesome-bots-berlin/pulls) ⭐ 58 | 🐛 0 | 📅 2025-02-25 by adding :+1: to them. Pull requests will be merged when they get votes
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/conradkirschner/awesome-bots-berlin/pulls) ⭐ 59 | 🐛 0 | 📅 2025-02-25 by adding :+1: to them. Pull requests will be merged when they get votes
 
 ***
 
@@ -68,4 +68,4 @@ In anycase of Contact just create a Issue, I will try to respond soon!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
