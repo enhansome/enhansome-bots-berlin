@@ -6,7 +6,7 @@ A curated list of awesome Bots that help People in Berlin
 
 ### Flats
 
-* [flathunter](https://github.com/flathunters/flathunter) ⭐ 1,062 | 🐛 47 | 🌐 HTML | 📅 2026-04-19
+* [flathunter](https://github.com/flathunters/flathunter) ⭐ 1,063 | 🐛 47 | 🌐 HTML | 📅 2026-04-19
 * [berlin-apartments-lambda-public](https://github.com/AvraamMavridis/berlin-apartments-lambda-public) ⭐ 77 | 🐛 2 | 🌐 JavaScript | 📅 2018-10-01
 * [flatcrawler](https://github.com/grandchild/flatcrawler) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2021-02-11
 * [gis-berlin-rents](https://github.com/pawod/gis-berlin-rents) ⭐ 8 | 🐛 6 | 🌐 Python | 📅 2022-12-07
@@ -68,4 +68,4 @@ In anycase of Contact just create a Issue, I will try to respond soon!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
