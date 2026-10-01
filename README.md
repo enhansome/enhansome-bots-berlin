@@ -42,7 +42,7 @@ A curated list of awesome Bots that help People in Berlin
 
 ### Others
 
-* [berghain](https://github.com/ewenme/berghain) ⭐ 8 | 🐛 0 | 🌐 R | 📅 2026-09-01
+* [berghain](https://github.com/ewenme/berghain) ⭐ 8 | 🐛 0 | 🌐 R | 📅 2026-10-01
 * [menstruation-telegram](https://github.com/kmein/menstruation-telegram) ⭐ 7 | 🐛 1 | 🌐 Python | 📅 2025-12-13
 * [eschen-bot](https://github.com/derhuerst/eschen-bot) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2019-11-08
 * [ourkino](https://github.com/diurnalist/ourkino) ⭐ 1 | 🐛 4 | 🌐 Go | 📅 2025-12-29
@@ -68,4 +68,4 @@ In anycase of Contact just create a Issue, I will try to respond soon!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
