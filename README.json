@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "flathunter",
-              "description": null,
+              "description": "flathunters/flathunter",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -49,7 +49,7 @@
             {
               "node_type": "item",
               "title": "berlin-apartments-lambda-public",
-              "description": null,
+              "description": "AvraamMavridis/berlin-apartments-lambda-public",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -79,7 +79,7 @@
             {
               "node_type": "item",
               "title": "flatcrawler",
-              "description": null,
+              "description": "grandchild/flatcrawler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -104,7 +104,7 @@
             {
               "node_type": "item",
               "title": "gis-berlin-rents",
-              "description": null,
+              "description": "pawod/gis-berlin-rents",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -131,7 +131,7 @@
             {
               "node_type": "item",
               "title": "FlatBot",
-              "description": null,
+              "description": "kine90/FlatBot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -203,7 +203,7 @@
             {
               "node_type": "item",
               "title": "berlin-startup-jobs-analyzer",
-              "description": null,
+              "description": "dstoianov/berlin-startup-jobs-analyzer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -283,7 +283,7 @@
             {
               "node_type": "item",
               "title": "Bürgeramt Appointment Finder",
-              "description": null,
+              "description": "All-About-Berlin/burgeramt-appointments",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -304,7 +304,7 @@
             {
               "node_type": "item",
               "title": "Berlin Ausländerbehörde Termin Bot",
-              "description": null,
+              "description": "yilmaznaslan/berlin-auslaenderbehorde-termin-bot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -330,7 +330,7 @@
             {
               "node_type": "item",
               "title": "Berlin Service Termin",
-              "description": null,
+              "description": "inverse/termin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -357,7 +357,7 @@
             {
               "node_type": "item",
               "title": "vbb-telegram",
-              "description": null,
+              "description": "derhuerst/vbb-telegram",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -385,7 +385,7 @@
             {
               "node_type": "item",
               "title": "berlin anmeldung scrapper",
-              "description": null,
+              "description": "dgmora/berlin_anmeldung_scrapper",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -410,7 +410,7 @@
             {
               "node_type": "item",
               "title": "sbahn-berlin-tweets",
-              "description": null,
+              "description": "derhuerst/sbahn-berlin-tweets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -436,7 +436,7 @@
             {
               "node_type": "item",
               "title": "Better Berlin Ausländerbehörde Termin Bot",
-              "description": null,
+              "description": "ccomkhj/berlin-visa-termin-macro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -457,7 +457,7 @@
             {
               "node_type": "item",
               "title": "Berlin registered protests",
-              "description": null,
+              "description": "Mamdasn/telegram-bot-protests-in-berlin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -486,7 +486,7 @@
             {
               "node_type": "item",
               "title": "vbb-disruptions",
-              "description": null,
+              "description": "derhuerst/vbb-disruptions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -513,7 +513,7 @@
             {
               "node_type": "item",
               "title": "vbb-parse-ticket",
-              "description": null,
+              "description": "derhuerst/vbb-parse-ticket",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -540,7 +540,7 @@
             {
               "node_type": "item",
               "title": "public-amenities-berlin",
-              "description": null,
+              "description": "030jmk/publicAmenitiesBerlin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -568,7 +568,7 @@
             {
               "node_type": "item",
               "title": "berlin-bot for Reddit",
-              "description": null,
+              "description": "All-About-Berlin/reddit-bot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -596,7 +596,7 @@
             {
               "node_type": "item",
               "title": "berghain",
-              "description": null,
+              "description": "ewenme/berghain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -621,7 +621,7 @@
             {
               "node_type": "item",
               "title": "menstruation-telegram",
-              "description": null,
+              "description": "kmein/menstruation-telegram",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -648,7 +648,7 @@
             {
               "node_type": "item",
               "title": "eschen-bot",
-              "description": null,
+              "description": "derhuerst/eschen-bot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -674,7 +674,7 @@
             {
               "node_type": "item",
               "title": "ourkino",
-              "description": null,
+              "description": "diurnalist/ourkino",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -712,7 +712,7 @@
         {
           "node_type": "item",
           "title": "queue-spy",
-          "description": null,
+          "description": "rafaelfcsouza/queue-spy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -740,7 +740,7 @@
         {
           "node_type": "item",
           "title": "isberlinhappy",
-          "description": null,
+          "description": "jdennes/isberlinhappy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:36:52.706Z",
+    "last_updated": "2026-10-03T04:36:55.413Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome bots for Berlin",
