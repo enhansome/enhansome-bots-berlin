@@ -21,7 +21,7 @@
                 "open_issues": 47,
                 "owner": "flathunters",
                 "repo": "flathunter",
-                "stars": 1068,
+                "stars": 1069,
                 "topics": [
                   "2captcha",
                   "chromedriver",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:49:32.589Z",
+    "last_updated": "2026-10-07T23:20:23.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome bots for Berlin",
