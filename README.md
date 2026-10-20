@@ -6,7 +6,7 @@ A curated list of awesome Bots that help People in Berlin
 
 ### Flats
 
-* [flathunter](https://github.com/flathunters/flathunter) ⭐ 1,072 | 🐛 47 | 🌐 HTML | 📅 2026-04-19
+* [flathunter](https://github.com/flathunters/flathunter) ⭐ 1,073 | 🐛 47 | 🌐 HTML | 📅 2026-04-19
 * [berlin-apartments-lambda-public](https://github.com/AvraamMavridis/berlin-apartments-lambda-public) ⭐ 77 | 🐛 2 | 🌐 JavaScript | 📅 2018-10-01
 * [flatcrawler](https://github.com/grandchild/flatcrawler) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2021-02-11
 * [gis-berlin-rents](https://github.com/pawod/gis-berlin-rents) ⭐ 8 | 🐛 6 | 🌐 Python | 📅 2022-12-07
@@ -23,8 +23,8 @@ A curated list of awesome Bots that help People in Berlin
 
 ### Public Services
 
-* [Anmeldung appointment finder](https://allaboutberlin.com/tools/appointment-finder) and [source code](https://github.com/nicbou/burgeramt-appointments-websockets) ⭐ 294 | 🐛 3 | 🌐 Python | 📅 2026-09-01
-* [Bürgeramt Appointment Finder](https://github.com/All-About-Berlin/burgeramt-appointments) ⭐ 294 | 🐛 3 | 🌐 Python | 📅 2026-09-01
+* [Anmeldung appointment finder](https://allaboutberlin.com/tools/appointment-finder) and [source code](https://github.com/nicbou/burgeramt-appointments-websockets) ⭐ 295 | 🐛 3 | 🌐 Python | 📅 2026-09-01
+* [Bürgeramt Appointment Finder](https://github.com/All-About-Berlin/burgeramt-appointments) ⭐ 295 | 🐛 3 | 🌐 Python | 📅 2026-09-01
 * [Berlin Ausländerbehörde Termin Bot](https://github.com/yilmaznaslan/berlin-auslaenderbehorde-termin-bot) ⭐ 157 | 🐛 14 | 🌐 Java | 📅 2024-01-09
 * [Berlin Service Termin](https://github.com/inverse/termin) ⭐ 59 | 🐛 17 | 🌐 HTML | 📅 2026-10-10
 * [vbb-telegram](https://github.com/derhuerst/vbb-telegram) ⭐ 18 | 🐛 6 | 🌐 JavaScript | 📅 2022-01-27
@@ -68,4 +68,4 @@ In anycase of Contact just create a Issue, I will try to respond soon!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._

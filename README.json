@@ -21,7 +21,7 @@
                 "open_issues": 47,
                 "owner": "flathunters",
                 "repo": "flathunter",
-                "stars": 1072,
+                "stars": 1073,
                 "topics": [
                   "2captcha",
                   "chromedriver",
@@ -275,7 +275,7 @@
                 "open_issues": 3,
                 "owner": "All-About-Berlin",
                 "repo": "burgeramt-appointments",
-                "stars": 294,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
@@ -296,7 +296,7 @@
                 "open_issues": 3,
                 "owner": "All-About-Berlin",
                 "repo": "burgeramt-appointments",
-                "stars": 294,
+                "stars": 295,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:38.715Z"
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:39:28.593Z",
+    "last_updated": "2026-10-20T21:55:58.686Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome bots for Berlin",
