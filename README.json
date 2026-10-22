@@ -113,7 +113,7 @@
                 "id": 95105579,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2022-12-07T23:59:10Z",
+                "last_commit": "2026-10-22T09:29:27Z",
                 "open_issues": 6,
                 "owner": "pawod",
                 "repo": "gis-berlin-rents",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:00:28.326Z",
+    "last_updated": "2026-10-22T21:56:44.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome bots for Berlin",
