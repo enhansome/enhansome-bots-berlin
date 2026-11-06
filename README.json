@@ -134,7 +134,7 @@
               "description": "kine90/FlatBot",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "FlatBot automates the tedious process of apartment applications on ImmoScout24.",
                 "homepage": null,
                 "id": 881988040,
@@ -240,7 +240,7 @@
                 "id": 750537035,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T19:55:09Z",
+                "last_commit": "2026-11-06T12:36:57Z",
                 "open_issues": 6,
                 "owner": "anapaulagomes",
                 "repo": "drs_bot",
@@ -767,7 +767,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T23:51:26.719Z",
+    "last_updated": "2026-11-06T23:33:12.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome bots for Berlin",
