@@ -23,8 +23,8 @@ A curated list of awesome Bots that help People in Berlin
 
 ### Public Services
 
-* [Anmeldung appointment finder](https://allaboutberlin.com/tools/appointment-finder) and [source code](https://github.com/nicbou/burgeramt-appointments-websockets) ⭐ 295 | 🐛 3 | 🌐 Python | 📅 2026-09-01
-* [Bürgeramt Appointment Finder](https://github.com/All-About-Berlin/burgeramt-appointments) ⭐ 295 | 🐛 3 | 🌐 Python | 📅 2026-09-01
+* [Anmeldung appointment finder](https://allaboutberlin.com/tools/appointment-finder) and [source code](https://github.com/nicbou/burgeramt-appointments-websockets) ⭐ 295 | 🐛 3 | 🌐 Python | 📅 2026-11-09
+* [Bürgeramt Appointment Finder](https://github.com/All-About-Berlin/burgeramt-appointments) ⭐ 295 | 🐛 3 | 🌐 Python | 📅 2026-11-09
 * [Berlin Ausländerbehörde Termin Bot](https://github.com/yilmaznaslan/berlin-auslaenderbehorde-termin-bot) ⭐ 157 | 🐛 14 | 🌐 Java | 📅 2024-01-09
 * [Berlin Service Termin](https://github.com/inverse/termin) ⭐ 59 | 🐛 3 | 🌐 HTML | 📅 2026-10-23
 * [vbb-telegram](https://github.com/derhuerst/vbb-telegram) ⭐ 18 | 🐛 6 | 🌐 JavaScript | 📅 2022-01-27
@@ -68,4 +68,4 @@ In anycase of Contact just create a Issue, I will try to respond soon!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
