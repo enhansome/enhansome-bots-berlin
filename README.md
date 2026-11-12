@@ -19,12 +19,12 @@ A curated list of awesome Bots that help People in Berlin
 ### Jobs
 
 * [berlin-startup-jobs-analyzer](https://github.com/dstoianov/berlin-startup-jobs-analyzer) ⭐ 1 | 🐛 4 | 🌐 Python | 📅 2023-04-24
-* [DRS bot](https://github.com/anapaulagomes/drs_bot) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-11-10 - courses available on Dahlem Research School
+* [DRS bot](https://github.com/anapaulagomes/drs_bot) ⭐ 1 | 🐛 6 | 🌐 Python | 📅 2026-11-12 - courses available on Dahlem Research School
 
 ### Public Services
 
-* [Anmeldung appointment finder](https://allaboutberlin.com/tools/appointment-finder) and [source code](https://github.com/nicbou/burgeramt-appointments-websockets) ⭐ 297 | 🐛 3 | 🌐 Python | 📅 2026-11-09
-* [Bürgeramt Appointment Finder](https://github.com/All-About-Berlin/burgeramt-appointments) ⭐ 297 | 🐛 3 | 🌐 Python | 📅 2026-11-09
+* [Anmeldung appointment finder](https://allaboutberlin.com/tools/appointment-finder) and [source code](https://github.com/nicbou/burgeramt-appointments-websockets) ⭐ 296 | 🐛 3 | 🌐 Python | 📅 2026-11-09
+* [Bürgeramt Appointment Finder](https://github.com/All-About-Berlin/burgeramt-appointments) ⭐ 296 | 🐛 3 | 🌐 Python | 📅 2026-11-09
 * [Berlin Ausländerbehörde Termin Bot](https://github.com/yilmaznaslan/berlin-auslaenderbehorde-termin-bot) ⭐ 157 | 🐛 14 | 🌐 Java | 📅 2024-01-09
 * [Berlin Service Termin](https://github.com/inverse/termin) ⭐ 59 | 🐛 3 | 🌐 HTML | 📅 2026-10-23
 * [vbb-telegram](https://github.com/derhuerst/vbb-telegram) ⭐ 18 | 🐛 6 | 🌐 JavaScript | 📅 2022-01-27
